@@ -6,6 +6,11 @@
 
 ## Usage
 
+===
+提交测试区
+这是冗余信息，可以删掉的
+====
+
 The site [http://yacd.haishan.me](http://yacd.haishan.me) is served with HTTP not HTTPS is because many browsers block requests to HTTP resources from a HTTPS website. If you think it's not safe, you could just download the [zip of the gh-pages](https://github.com/haishanh/yacd/archive/gh-pages.zip), unzip and serve those static files with a web server(like Nginx).
 
 **Docker image**
